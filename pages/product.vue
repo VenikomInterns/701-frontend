@@ -27,6 +27,7 @@ export default {
       description: this.$route.query.description
     }
   },
+  //I expected to see API call inside mounted method to fetch the product data
 }
 </script>
 
